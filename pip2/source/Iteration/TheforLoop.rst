@@ -13,7 +13,7 @@ The **for** Loop
 In Python, the **for** statement allows us to write programs that implement iteration.   As a simple example, let's say we have some friends, and
 we'd like to send them each an email inviting them to our party.  We
 don't quite know how to send email yet, so for the moment we'll just print a
-message for each friend.
+message for each friend. A for loop will loop through your list of friends and for each friend in your list, the for loop will extend an invite to each friend as the variable name is assigned to each friend until the end of the list.
 
 .. activecode:: ch03_4
     :nocanvas:
